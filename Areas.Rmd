@@ -22,3 +22,4 @@ Area <- pi*r^2
 Lado <- 3
 AreaCuadrado <- Lado^2
 ```
+
