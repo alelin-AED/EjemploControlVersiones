@@ -26,10 +26,17 @@ AreaCuadrado <- Lado^2
 # Área del triángulo
 
 ```{r}
-
 Base <- 0.5
 Altura <- 2
 AreaTriangulo <- (Base*Altura)/2
+```
+
+# Área del rectángulo
+
+```{r}
+Base <- 0.5
+Altura <- 2
+AreaRectangulo <- Base*Altura
 ```
 
 
