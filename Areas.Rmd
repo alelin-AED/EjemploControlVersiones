@@ -38,3 +38,13 @@ altura <- 2
 AreaRectangulo <- base*altura
 ```
 
+
+# Área del trapecio
+```{r}
+a <- 1
+b <- 3
+altura <- 2
+AreaTrapecio(a,b,altura)
+
+```
+
